@@ -3,7 +3,7 @@ public class CursoJava {
 
         int num = 100; // int usado para criação de variavel, quando nada é atribuido ele recebe por padrão o valor 0
         String nome = "José";
-
+        
         System.out.print("quebraaaa\n"); // \n ou %n é um caracter de escape, quebra de linha
         System.out.print("curso java"); // somente o print não executa a quebra de linha
         System.out.println("curso java 2"); // printlnm executa quebra de linha no final
