@@ -1,5 +1,5 @@
 public class CursoJava2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // coments
 
         String aluno = "doidera"; // vareavel string 
         int nota = 70; // vareavel inteiro
