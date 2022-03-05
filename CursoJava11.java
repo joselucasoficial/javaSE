@@ -6,14 +6,16 @@ public class CursoJava11 {
         char[] respostas = new char[tam];
         int nota;
 
-        respostas[0] = 'a';
-        respostas[1] = 'b';
-        respostas[2] = 'c';
-        respostas[3] = 'b';
-        respostas[4] = 'c';
-
         for(int i = 0; i < tam; i++){
+            System.out.printf("Informe a responta %d", i)
+        }
+        for(int i = 0; i < tam; i++){
+            if(respostas[i] == gabarito[i]){
+                nota++;
+            }
             
         }
+
+        System.out.printf("Seu resultado foi %d :", )
     }
 }
