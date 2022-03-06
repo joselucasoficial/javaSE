@@ -3,7 +3,7 @@ public class CursoJava8 {
         
 
         int[] num = new int[5] ; // declaração de vareavel com instanciação de new array
-        int[] numeros = {2, 3, 4, 5, 6}; // declaração de vareavel direto na vareavel
+        int[] numeros = {2, 3, 4, 5, 6}; // declaração de Array direto na vareavel
 
         num[0] = 10; // atribuindo o valor a posisão do array aplicada por []
         num[1] = 20; // atribuindo o valor a posisão do array aplicada por []
