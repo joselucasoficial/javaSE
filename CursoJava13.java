@@ -14,7 +14,7 @@ public class CursoJava13 {
         System.arraycopy(num, 0, numeros, 0, tam); // (origem, apartir do, destino, apartir do, quantidade de elementos a ser copiado)
 
         for (int n : numeros) { // for especial para leitura de um array, apenas leitura.
-            System.out.printf("%d ", n); // inpressão float
+            System.out.printf("%d ", n); // inpressão formated
         }
     }
 }
