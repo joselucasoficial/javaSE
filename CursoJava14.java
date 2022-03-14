@@ -10,7 +10,7 @@ public class CursoJava14 {
 
         for(int l = 0; l < linhas; l++){
             for(int c = 0; c < colunas; c++){
-                numeros[l][c] = new SecureRandom().nextInt(100)
+                numeros[l][c] = new SecureRandom().nextInt(100);
             }
         }
     }    

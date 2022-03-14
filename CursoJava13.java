@@ -1,4 +1,4 @@
-import java.util.Arrays; // importando o a classe Array
+//import java.util.Arrays; // importando o a classe Array
 
 public class CursoJava13 {
     public static void main(String[] args) {
