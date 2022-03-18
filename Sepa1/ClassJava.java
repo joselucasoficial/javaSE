@@ -3,7 +3,7 @@ public class ClassJava {
         int num = 0; // referencia-se ao numero de cada player
         
         Player p1 = new Player(++num); // new passa os valores de (Player para a vareavel (p))
-        p1.setLife(2);
+        p1.addLife();
         System.out.printf("a quantidade de vidas do Player %d é %d\n", num, p1.getLife() );
         
         Player p2 = new Player(++num); // new passa os valores de (Player para a vareavel (p))
