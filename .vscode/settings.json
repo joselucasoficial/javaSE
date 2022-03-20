@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "Sepa1",
-        "sepa2"
+        "sepa2",
+        "Matrizjava",
+        "allFiles"
     ]
 }
